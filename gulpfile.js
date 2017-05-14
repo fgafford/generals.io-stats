@@ -8,13 +8,19 @@ var del = require('del');
 var tslintCustom = require('tslint'); // for tslint-next https://github.com/panuhorsmalahti/gulp-tslint#specifying-the-tslint-module
 require('dotbin');
 
-var tsFilesGlob = (function (c) {
-  return c.filesGlob || c.files || 'src/**/*.ts';
+// All source files
+const src = ['src/*','src/**/*'];
+
+const tsFilesGlob = (function (c) {
+  return c.filesGlob || c.files || 
+          'src/**/*.ts' || 'src/**/*.tsx' ||
+          'src/*.html';
 })(require('./tsconfig.json'));
 
-gulp.task('clean', 'Cleans the generated js files from lib directory', function () {
+gulp.task('clean', 'Cleans the generated js files from lib and dist directory', function () {
   return del([
-    'lib/**/*'
+    'lib/**/*',
+    'dist/**/*'
   ]);
 });
 
@@ -26,6 +32,11 @@ gulp.task('lint', 'Lints all TypeScript source files', function () {
     }))
     .pipe(tslint.report());
 });
+
+gulp.task('copy', 'Copies over required HTML/CSS to dist', () => {
+  gulp.src(['src/*.html', 'src/**/*.html'])
+    .pipe(gulp.dest('./dist'))
+})
 
 gulp.task('build', 'Compiles all TypeScript source files',['clean'], function (cb) {
   exec('tsc --version', function (err, stdout, stderr) {
@@ -52,5 +63,17 @@ gulp.task('test', 'Runs the Jasmine test specs', ['build'], function () {
 });
 
 gulp.task('watch', 'Watches ts source files and runs build on change', function () {
-  gulp.watch(tsFilesGlob, ['build']);
+  gulp.watch([src, tsFilesGlob], ['build', 'copy']);
 });
+
+gulp.task('serve', 'Starts the local server and updates on file change', ['build', 'copy', 'watch'], () => {
+  exec(`node server.js`, (err, stdout, stderr) => {
+    console.log('Starting local http server ');
+    console.log(stdout);
+    // console.error(stderr);
+    if (stderr) { console.log(stderr); }
+  })
+});
+
+// Alias for serve
+gulp.task('dev', ['serve'])
