@@ -8,13 +8,16 @@ var del = require('del');
 var tslintCustom = require('tslint'); // for tslint-next https://github.com/panuhorsmalahti/gulp-tslint#specifying-the-tslint-module
 require('dotbin');
 
+gulp.on('err', function(e) {
+    console.log(e.err.stack);
+});
+
 // All source files
 const src = ['src/*','src/**/*'];
 
 const tsFilesGlob = (function (c) {
   return c.filesGlob || c.files || 
-          'src/**/*.ts' || 'src/**/*.tsx' ||
-          'src/*.html';
+          'src/**/*.ts' || 'src/**/*.tsx';
 })(require('./tsconfig.json'));
 
 gulp.task('clean', 'Cleans the generated js files from lib and dist directory', function () {
@@ -33,10 +36,25 @@ gulp.task('lint', 'Lints all TypeScript source files', function () {
     .pipe(tslint.report());
 });
 
-gulp.task('copy', 'Copies over required HTML/CSS to dist', () => {
-  gulp.src(['src/*.html', 'src/**/*.html'])
+//  ===================== Copy Tasks =================== // 
+gulp.task('html', 'Copy HTML files', ['clean'], () => {
+  return gulp.src(['src/*.html', 'src/**/*.html'])
     .pipe(gulp.dest('./dist'))
 })
+
+gulp.task('css', 'Copy CSS files', ['clean'], () => {
+  return gulp.src('src/css/*')
+    .pipe(gulp.dest('./dist/css'))
+})
+
+gulp.task('font', 'Copy the font files over', ['clean'], () => {
+  return gulp.src('src/fonts/*')
+    .pipe(gulp.dest('./dist/fonts'))
+})
+
+gulp.task('copy', ['html', 'css', 'font'])
+//  ==================================================== // 
+
 
 gulp.task('build', 'Compiles all TypeScript source files',['clean'], function (cb) {
   exec('tsc --version', function (err, stdout, stderr) {
@@ -63,11 +81,11 @@ gulp.task('test', 'Runs the Jasmine test specs', ['build'], function () {
 });
 
 gulp.task('watch', 'Watches ts source files and runs build on change', function () {
-  gulp.watch([src, tsFilesGlob], ['build', 'copy']);
+  return gulp.watch([src, tsFilesGlob], ['clean', 'build', 'copy']);
 });
 
 gulp.task('serve', 'Starts the local server and updates on file change', ['build', 'copy', 'watch'], () => {
-  exec(`node server.js`, (err, stdout, stderr) => {
+  return exec(`node server.js`, (err, stdout, stderr) => {
     console.log('Starting local http server ');
     console.log(stdout);
     // console.error(stderr);
