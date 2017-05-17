@@ -17,14 +17,13 @@
   "scripts": {
     "test": "gulp test"
   },
-  "dependencies": {
-    "@types/node": "6.0.31",
-    "@types/socket.io-client": "^1.4.29",
-    "socket.io-client": "^1.7.3"
-  },
+  "dependencies": {},
   "devDependencies": {
+    "@reactivex/rxjs": "^5.4.0",
     "@types/chai": "^3.4.30",
     "@types/mocha": "^2.2.29",
+    "@types/node": "6.0.31",
+    "@types/react": "^15.0.24",
     "chai": "3.5.0",
     "del": "^2.2.1",
     "dotbin": "^1.0",
@@ -36,7 +35,7 @@
     "simple-mock": "^0.7.3",
     "ts-node": "^1.2.2",
     "tslint": "3.14.0-dev.1",
-    "typescript": "2.0.0"
+    "typescript": "2.3"
   },
   "engines": {
     "node": ">=4.0.0"
