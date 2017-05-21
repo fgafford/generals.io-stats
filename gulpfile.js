@@ -3,6 +3,7 @@ var tslint = require('gulp-tslint');
 var exec = require('child_process').exec;
 var mocha = require('gulp-mocha');
 var gulp = require('gulp-help')(gulp);
+var webpack = require('webpack-stream');
 var path = require('path');
 var del = require('del');
 var tslintCustom = require('tslint'); // for tslint-next https://github.com/panuhorsmalahti/gulp-tslint#specifying-the-tslint-module
@@ -73,6 +74,12 @@ gulp.task('build', 'Compiles all TypeScript source files',['clean'], function (c
   });
 });
 
+gulp.task('webpack','Packs all the things for the web...', ['build'], () => {
+  return gulp.src('./lib/*.js')
+    .pipe(webpack(require('./webpack.config.js')))
+    .pipe(gulp.dest('dist/js'));
+})
+
 gulp.task('test', 'Runs the Jasmine test specs', ['build'], function () {
   return gulp.src('test/*.ts')
     .pipe(mocha({
@@ -81,14 +88,13 @@ gulp.task('test', 'Runs the Jasmine test specs', ['build'], function () {
 });
 
 gulp.task('watch', 'Watches ts source files and runs build on change', function () {
-  return gulp.watch([src, tsFilesGlob], ['clean', 'build', 'copy']);
+  return gulp.watch([src, tsFilesGlob], ['clean', 'build', 'copy', 'webpack']);
 });
 
-gulp.task('serve', 'Starts the local server and updates on file change', ['build', 'copy', 'watch'], () => {
+gulp.task('serve', 'Starts the local server and updates on file change', ['build', 'copy', 'webpack', 'watch'], () => {
   return exec(`node server.js`, (err, stdout, stderr) => {
     console.log('Starting local http server ');
     console.log(stdout);
-    // console.error(stderr);
     if (stderr) { console.log(stderr); }
   })
 });
