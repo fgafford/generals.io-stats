@@ -56,7 +56,7 @@ gulp.task('font', 'Copy the font files over', ['clean'], () => {
 gulp.task('copy', ['html', 'css', 'font'])
 //  ==================================================== // 
 
-
+/*
 gulp.task('build', 'Compiles all TypeScript source files',['clean'], function (cb) {
   exec('tsc --version', function (err, stdout, stderr) {
     console.log('Using TypeScript ', stdout);
@@ -73,14 +73,15 @@ gulp.task('build', 'Compiles all TypeScript source files',['clean'], function (c
     cb(err);
   });
 });
+*/
 
-gulp.task('webpack','Packs all the things for the web...', ['build'], () => {
+gulp.task('webpack','Packs all the things for the web...', () => {
   return gulp.src('./lib/*.js')
     .pipe(webpack(require('./webpack.config.js')))
     .pipe(gulp.dest('dist/js'));
 })
 
-gulp.task('test', 'Runs the Jasmine test specs', ['build'], function () {
+gulp.task('test', 'Runs the Jasmine test specs', function () {
   return gulp.src('test/*.ts')
     .pipe(mocha({
       require: ['ts-node/register']
@@ -88,10 +89,10 @@ gulp.task('test', 'Runs the Jasmine test specs', ['build'], function () {
 });
 
 gulp.task('watch', 'Watches ts source files and runs build on change', function () {
-  return gulp.watch([src, tsFilesGlob], ['clean', 'build', 'copy', 'webpack']);
+  return gulp.watch([src, tsFilesGlob], ['clean', 'copy', 'webpack']);
 });
 
-gulp.task('serve', 'Starts the local server and updates on file change', ['build', 'copy', 'webpack', 'watch'], () => {
+gulp.task('serve', 'Starts the local server and updates on file change', [ 'copy', 'webpack', 'watch'], () => {
   return exec(`node server.js`, (err, stdout, stderr) => {
     console.log('Starting local http server ');
     console.log(stdout);

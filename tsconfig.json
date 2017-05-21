@@ -1,10 +1,11 @@
 {
   "compilerOptions": {
     "declaration": true,
-    "module": "commonjs",
-    "moduleResolution": "node",
+    "module": "es6",
     "noImplicitAny": true,
-    "outDir": "./lib",
+    "target": "es5",
+    "sourceMap": true,
+    "sourceRoot": "./src/ts",
     "preserveConstEnums": true,
     "removeComments": true,
     "jsx": "react"
