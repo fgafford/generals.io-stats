@@ -86,12 +86,15 @@ gulp.task('webpack','Packs all the things for the web...', () => {
 })
 */
 
+// TODO: find a way to use a stream into Browserify instead
+const tsxFiles = ['./ts/index.ts', './tsx/UserQuery.tsx'];
+
 gulp.task('pack', 'Browserify all the stuffs', ['clean','copy'], () => {
-  return browserify()
-            .add('./src/ts/index.ts')
+  return browserify({basedir: './src'})
+            .add(tsxFiles) // See TODO above
             .plugin(tsify)
             .bundle()
-            .on('error', err => console.error(err.stack))
+            .on('error', err => console.error(err, err.stack))
             .pipe(source('pack.js'))
             .pipe(gulp.dest('./dist'));
 })
