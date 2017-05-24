@@ -1,5 +1,5 @@
-import * as stuff from '../tsx/UserQuery'
+import * as stuff from './UserQuery'
 
 
 const data: string = "I am somthing here"
-console.log(stuff);
+console.log(data);

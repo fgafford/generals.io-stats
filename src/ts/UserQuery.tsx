@@ -1,5 +1,6 @@
-import * as React from 'react';
-import * as ReactDOM from 'react-dom';
+/// <reference path="../../node_modules/@types/react/index.d.ts" />
+// import * as React from 'react';
+// import * as ReactDOM from 'react-dom';
 
 // interface TypeScriptComponentProps {
 

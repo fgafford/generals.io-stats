@@ -3,10 +3,15 @@ var tslint = require('gulp-tslint');
 var exec = require('child_process').exec;
 var mocha = require('gulp-mocha');
 var gulp = require('gulp-help')(gulp);
-var webpack = require('webpack-stream');
-var path = require('path');
 var del = require('del');
-var tslintCustom = require('tslint'); // for tslint-next https://github.com/panuhorsmalahti/gulp-tslint#specifying-the-tslint-module
+var tslintCustom = require('tslint'); // for tslint-next 
+
+// broserify stuff
+var source = require('vinyl-source-stream');
+var browserify = require('browserify');
+var tsify = require('tsify');
+
+// https://github.com/panuhorsmalahti/gulp-tslint#specifying-the-tslint-module
 require('dotbin');
 
 gulp.on('err', function(e) {
@@ -73,12 +78,22 @@ gulp.task('build', 'Compiles all TypeScript source files',['clean'], function (c
     cb(err);
   });
 });
-*/
 
 gulp.task('webpack','Packs all the things for the web...', () => {
   return gulp.src('./lib/*.js')
     .pipe(webpack(require('./webpack.config.js')))
     .pipe(gulp.dest('dist/js'));
+})
+*/
+
+gulp.task('pack', 'Browserify all the stuffs', ['clean','copy'], () => {
+  return browserify()
+            .add('./src/ts/index.ts')
+            .plugin(tsify)
+            .bundle()
+            .on('error', err => console.error(err.stack))
+            .pipe(source('pack.js'))
+            .pipe(gulp.dest('./dist'));
 })
 
 gulp.task('test', 'Runs the Jasmine test specs', function () {
@@ -88,11 +103,11 @@ gulp.task('test', 'Runs the Jasmine test specs', function () {
     }));
 });
 
-gulp.task('watch', 'Watches ts source files and runs build on change', function () {
-  return gulp.watch([src, tsFilesGlob], ['clean', 'copy', 'webpack']);
+gulp.task('watch', 'Watches ts source files and runs build on change', ['pack'], () => {
+  return gulp.watch([src, tsFilesGlob], ['clean', 'copy', 'pack']);
 });
 
-gulp.task('serve', 'Starts the local server and updates on file change', [ 'copy', 'webpack', 'watch'], () => {
+gulp.task('serve', 'Starts the local server and updates on file change', ['watch'], () => {
   return exec(`node server.js`, (err, stdout, stderr) => {
     console.log('Starting local http server ');
     console.log(stdout);
