@@ -1,5 +1,5 @@
 module.exports = {
-    entry: './src/ts/entry',
+    entry: './src/tsx/UserQuery',
     output: {
         path: __dirname,  
         filename: 'bundle.js',
