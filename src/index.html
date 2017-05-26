@@ -8,62 +8,24 @@
     <link rel="stylesheet" href="css/generals-main-prod-v19.css">
 
     <!-- CDN fun! -->
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.3/require.js"></script>
+    <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/require.js/2.3.3/require.js"></script> -->
+    <script src="https://unpkg.com/react@latest/dist/react.min.js"></script>
+    <script src="https://unpkg.com/react-dom@latest/dist/react-dom.min.js"></script> 
     <!--<script src="https://unpkg.com/rxjs@5.4.0"></script>-->
 
 
-    <!-- Our JS files -->
-    <script src="./pack.js"></script>
 </head>
 
 <body>
     <div>
         <span>
-            <div id="main-menu" class="main-menu">
-                <center>
-                    <div class="center" style="width: 95%;">
-                        <h1 class="main-title">generals.io - stats</h1>
-                        <!--<div class="rank-list">
-                            <div class="rank-item">
-                                <h3 style="margin: 0px;">1v1</h3>
-                                <h2 style="margin: 0px;">
-                                    <span>
-                                        <span style="color: gold;">★</span>
-                                        18.1
-                                    </span>
-                                </h2>
-                                <p style="margin: 0px;">
-                                    Rank # 
-                                   <65237></65237>
-                                </p>
-                            </div>
-                        </div>-->
-                        <select class="bold" style="height: 24px; border: medium none;">
-                            <option disabled="disabled">Choose a server:</option>
-                            <option value="NA" selected="selected">North America (New York)</option>
-                            <option value="EU">Europe (Amsterdam)</option>
-                            <option value="Bot">Bot Server (San Francisco)</option>
-                        </select>
-                        <input id="main-menu-username-input" placeholder="Enter Username" type="text">
-                        <br>
-                        <button class="big" style="margin: 10px;">See Stats</button>
-                        <br>
-                        <br>
-                        <br>
-                        <p>Plug for GitHub here</p>
-                    </div>
-    <div id="main-menu-discord-button" class="discord-button"></div>
-    <div id="leaderboard-button"><img src="generals.io_files/leaderboard.png"></div>
-    <div class="option-button" style="position: fixed; left: 0px; bottom: 0px;"></div>
-    <div id="main-menu-leaderboard-ad" class="center-horizontal"
-        style="transform: translateX(-55%);">
-        <div>
-        </div>
-        </div>
-        </center>
-        </div>
+            <center>
+                <div id="main-menu" class="main-menu"></div>
+            </center>
         </span>
-        </div>
+    </div>
+    <!-- Our JS files -->
+    <script src="./pack.js"></script>
 </body>
 
 </html>

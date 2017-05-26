@@ -87,7 +87,7 @@ gulp.task('webpack','Packs all the things for the web...', () => {
 */
 
 // TODO: find a way to use a stream into Browserify instead
-const tsxFiles = ['./ts/index.ts', './tsx/UserQuery.tsx'];
+const tsxFiles = ['./tsx/UserQuery.tsx'];
 
 gulp.task('pack', 'Browserify all the stuffs', ['clean','copy'], () => {
   return browserify({basedir: './src'})
@@ -107,7 +107,7 @@ gulp.task('test', 'Runs the Jasmine test specs', function () {
 });
 
 gulp.task('watch', 'Watches ts source files and runs build on change', ['pack'], () => {
-  return gulp.watch([src, tsFilesGlob], ['clean', 'copy', 'pack']);
+  return gulp.watch([src, tsFilesGlob], ['pack']);
 });
 
 gulp.task('serve', 'Starts the local server and updates on file change', ['watch'], () => {
