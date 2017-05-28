@@ -1,37 +1,37 @@
 /// <reference path="../browser.ts" />
 
-interface Props {
+interface Props {}
 
-}
+class UserQuery extends React.Component<Props, any> {
 
+    server: string = 'NA';
+    haveValidUser: boolean =  false;
 
-function handleClick() {
-  console.log('Hello World');
-}
+    setServer(event: any){  
+        this.server = event.target.value;
+        this.forceUpdate();
+    }
 
-class MyElem extends React.Component<Props, {}> {
     render() {
         return (<div className="center" style={{width: '80%'}}>
                         <h1 className="main-title">generals.io - stats</h1>
-                        <select className="bold" style={{height: '24px', border: 'medium none'}}>
+                        <select onChange={e => this.setServer(e)} className="bold" style={{height: '24px', border: 'medium none'}}>
                             <option disabled={true}>Choose a server:</option>
                             <option value="NA" selected={true}>North America (New York)</option>
                             <option value="EU">Europe (Amsterdam)</option>
                             <option value="Bot">Bot Server (San Francisco)</option>
+                            <option value="LH">localhost (testing)</option>
                         </select>
                         <input id="main-menu-username-input" placeholder="Enter Username" type="text" />
+                        <div>Selected: {this.server}</div>
                         <br/>
                         <button className="big" style={{margin: '10px'}}>See Stats</button>
-                        <br/>
-                        <br/>
-                        <br/>
-                        <p>Plug for GitHub here</p>
                 </div>)
     }
 }
 
 ReactDOM.render(
-    <MyElem />,
+    <UserQuery />,
     document.getElementById("main-menu")
 );
 
