@@ -4,3 +4,4 @@
  */
 /// <reference path="../node_modules/@types/react/index.d.ts" />
 /// <reference path="../node_modules/@types/rx/index.d.ts" />
+/// <reference path="../node_modules/@types/jquery/index.d.ts" />
