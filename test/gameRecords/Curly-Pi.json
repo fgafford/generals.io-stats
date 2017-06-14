@@ -1,0 +1,3882 @@
+[
+    {
+        "type": "classic",
+        "id": "rgT8vX0z-",
+        "started": 1497409365053,
+        "turns": 828,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rl0mSXRfW",
+        "started": 1497408805726,
+        "turns": 919,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HxlJV7CMZ",
+        "started": 1497408472494,
+        "turns": 507,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Bl6fmXRzZ",
+        "started": 1497408277440,
+        "turns": 379,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 33
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SeKyG70GZ",
+        "started": 1497407969241,
+        "turns": 402,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 204
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Se_r-XRzZ",
+        "started": 1497407808115,
+        "turns": 214,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 33
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SepelQAM-",
+        "started": 1497407476919,
+        "turns": 472,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 33
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BxaWJQCzW",
+        "started": 1497407236756,
+        "turns": 289,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HlRgRMAMb",
+        "started": 1497406965673,
+        "turns": 530,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 205
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Seq4hf0f-",
+        "started": 1497406514422,
+        "turns": 710,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 214
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 209
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 205
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Hl-LoMRGW",
+        "started": 1497406281273,
+        "turns": 364,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "reCW9M0fZ",
+        "started": 1497405958095,
+        "turns": 127,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BeLaOMCM-",
+        "started": 1497405629846,
+        "turns": 644,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HlKVOMCfW",
+        "started": 1497405488775,
+        "turns": 271,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HxSBwMRGb",
+        "started": 1497405244592,
+        "turns": 414,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 45
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BgL3LzCz-",
+        "started": 1497405102493,
+        "turns": 347,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 206
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rlXTBGRMZ",
+        "started": 1497404859337,
+        "turns": 398,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 206
+            },
+            {
+                "name": "[Bot] FloBot",
+                "stars": 221
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rlkNVz0fW",
+        "started": 1497404455078,
+        "turns": 294,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 227
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 206
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HeJVXfCfb",
+        "started": 1497404198921,
+        "turns": 322,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "reNlWGAMZ",
+        "started": 1497403627570,
+        "turns": 656,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BeRHgGAMW",
+        "started": 1497403462517,
+        "turns": 318,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HgMMyGAGW",
+        "started": 1497403146198,
+        "turns": 435,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BeJZR-RGb",
+        "started": 1497402871027,
+        "turns": 447,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 209
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SeH0hWAz-",
+        "started": 1497402572786,
+        "turns": 405,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BlFti-Rf-",
+        "started": 1497402240543,
+        "turns": 861,
+        "ranking": [
+            {
+                "name": "San Antonio Spurs",
+                "stars": 221
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 209
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SeLEqbRMZ",
+        "started": 1497401902317,
+        "turns": 479,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 206
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 222
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BglBKWRGZ",
+        "started": 1497401656109,
+        "turns": 362,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 222
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 206
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Hg_H_ZRMZ",
+        "started": 1497401407910,
+        "turns": 245,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 204
+            },
+            {
+                "name": "[Bot] FloBot",
+                "stars": 221
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Bg6-wWCfW",
+        "started": 1497401092661,
+        "turns": 618,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 209
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BxffLZ0f-",
+        "started": 1497400842508,
+        "turns": 620,
+        "ranking": [
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 209
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rgllSbCMW",
+        "started": 1497400552273,
+        "turns": 593,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 210
+            },
+            {
+                "name": "SMB",
+                "stars": 130
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 209
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Bew1NZAz-",
+        "started": 1497400286963,
+        "turns": 243,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 205
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HeQcMbRfZ",
+        "started": 1497399946772,
+        "turns": 560,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 205
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SxTbgb0M-",
+        "started": 1497399301359,
+        "turns": 703,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 209
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 210
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rxKEy-CMb",
+        "started": 1497399089199,
+        "turns": 210,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 205
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BlYjTgCM-",
+        "started": 1497398688965,
+        "turns": 708,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 209
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 213
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HeV9ng0GW",
+        "started": 1497398411806,
+        "turns": 498,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 209
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Hl6Qnl0zb",
+        "started": 1497398308715,
+        "turns": 575,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 217
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 210
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 209
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BxhNcx0f-",
+        "started": 1497397812415,
+        "turns": 801,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SeA5_x0zW",
+        "started": 1497397398217,
+        "turns": 1090,
+        "ranking": [
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 208
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rlBJ_lCGb",
+        "started": 1497397213063,
+        "turns": 181,
+        "ranking": [
+            {
+                "name": "[Human]Mitander",
+                "stars": 190
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 206
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rxSVPeCf-",
+        "started": 1497397037024,
+        "turns": 703,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] sora ai",
+                "stars": 217
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Blf18xCzZ",
+        "started": 1497396697810,
+        "turns": 480,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 206
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BxIxHeAzZ",
+        "started": 1497396461636,
+        "turns": 462,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 213
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 210
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rlrlVeRMZ",
+        "started": 1497396205401,
+        "turns": 324,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 206
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rlvbXxRG-",
+        "started": 1497395967297,
+        "turns": 431,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BgM2bx0G-",
+        "started": 1497395626054,
+        "turns": 621,
+        "ranking": [
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BxNHgxRG-",
+        "started": 1497395259789,
+        "turns": 790,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Bgmw1g0GW",
+        "started": 1497395034632,
+        "turns": 265,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 33
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Hg9LCyCfW",
+        "started": 1497394770422,
+        "turns": 342,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 218
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 208
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "reVChyCMZ",
+        "started": 1497394380150,
+        "turns": 593,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 33
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HgPE2JCM-",
+        "started": 1497394223070,
+        "turns": 638,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 212
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 208
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Sx5ZikRG-",
+        "started": 1497393921852,
+        "turns": 528,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 207
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 210
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BecQdJCGW",
+        "started": 1497393186163,
+        "turns": 1188,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 205
+            },
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BeuLP10Mb",
+        "started": 1497392976086,
+        "turns": 610,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 206
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HeADBJ0GZ",
+        "started": 1497392485784,
+        "turns": 789,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 206
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 210
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SgQjNyRG-",
+        "started": 1497392282656,
+        "turns": 346,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 205
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 207
+            },
+            {
+                "name": "[Bot] sora ai",
+                "stars": 219
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BlCSmJCGW",
+        "started": 1497391942501,
+        "turns": 1826,
+        "ranking": [
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 211
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 204
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rlfxfJRzW",
+        "started": 1497391594176,
+        "turns": 562,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 204
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Be0elJCGb",
+        "started": 1497391093825,
+        "turns": 803,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 205
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BgfFC0afZ",
+        "started": 1497390713581,
+        "turns": 629,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 209
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BgPiT0TfW",
+        "started": 1497390495408,
+        "turns": 204,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 205
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Hl7v2RTfb",
+        "started": 1497390171162,
+        "turns": 520,
+        "ranking": [
+            {
+                "name": "Anonymous2",
+                "stars": 61
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rgPhoRazW",
+        "started": 1497389999023,
+        "turns": 93,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HeiJsATzZ",
+        "started": 1497389794853,
+        "turns": 448,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 203
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "Anonymous",
+                "stars": 0
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 210
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rxrS5RTGb",
+        "started": 1497389628730,
+        "turns": 457,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 209
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SgfBKRaM-",
+        "started": 1497389370482,
+        "turns": 320,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 210
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 224
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rlFNv0aMb",
+        "started": 1497388849226,
+        "turns": 967,
+        "ranking": [
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 212
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 210
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SeFkICTM-",
+        "started": 1497388512953,
+        "turns": 475,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 210
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HgI1HRpfW",
+        "started": 1497388253735,
+        "turns": 507,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BxSqQ0pfb",
+        "started": 1497387917483,
+        "turns": 591,
+        "ranking": [
+            {
+                "name": "עוד אפצי",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HeLwfRpGb",
+        "started": 1497387614256,
+        "turns": 349,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 212
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 200
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rxmdb06GZ",
+        "started": 1497387371016,
+        "turns": 300,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 212
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 199
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Hl1NgA6MZ",
+        "started": 1497387046770,
+        "turns": 712,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 208
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 199
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 209
+            },
+            {
+                "name": "hjhjhkhj",
+                "stars": 149
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Se76RTpzW",
+        "started": 1497386682512,
+        "turns": 657,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 208
+            },
+            {
+                "name": "עוד אפצי",
+                "stars": 218
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 215
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 208
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 199
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HgmLAppfb",
+        "started": 1497386571374,
+        "turns": 120,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rel03TpzW",
+        "started": 1497386183991,
+        "turns": 762,
+        "ranking": [
+            {
+                "name": "עוד אפצי",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HltIs66M-",
+        "started": 1497385808706,
+        "turns": 633,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 208
+            },
+            {
+                "name": "SMB",
+                "stars": 102
+            },
+            {
+                "name": "[Bot]Nienawiść",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 210
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BeynKaTM-",
+        "started": 1497385383495,
+        "turns": 651,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HxGndapzW",
+        "started": 1497385130184,
+        "turns": 467,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 206
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 196
+            },
+            {
+                "name": "[Bot] sora ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 210
+            },
+            {
+                "name": "עוד אפצי",
+                "stars": 219
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Hxc9vapzW",
+        "started": 1497384850322,
+        "turns": 524,
+        "ranking": [
+            {
+                "name": "עוד אפצי",
+                "stars": 212
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 212
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rxvMr6azZ",
+        "started": 1497384207006,
+        "turns": 1054,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 197
+            },
+            {
+                "name": "SMB",
+                "stars": 77
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 211
+            },
+            {
+                "name": "עוד אפצי",
+                "stars": 221
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HxBeNppzW",
+        "started": 1497383916668,
+        "turns": 344,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 212
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rgsrmTafZ",
+        "started": 1497383746545,
+        "turns": 354,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 195
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 210
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SehtbpaMb",
+        "started": 1497383300094,
+        "turns": 722,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HeP2g6aGb",
+        "started": 1497383086938,
+        "turns": 414,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 212
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 194
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HgY1eTTfZ",
+        "started": 1497382880735,
+        "turns": 878,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 215
+            },
+            {
+                "name": "hjhjhkhj",
+                "stars": 113
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 196
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rlW00hTGZ",
+        "started": 1497382601469,
+        "turns": 370,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BxBA32TGb",
+        "started": 1497382093175,
+        "turns": 587,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 217
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 197
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "reTx32aM-",
+        "started": 1497381877003,
+        "turns": 487,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 216
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 217
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 196
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 212
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "reXVo3pzW",
+        "started": 1497381674823,
+        "turns": 302,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 217
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 212
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 196
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SlVmq2aMW",
+        "started": 1497381403525,
+        "turns": 390,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BlI5Y3TMb",
+        "started": 1497381262425,
+        "turns": 94,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Sl9xuhaMW",
+        "started": 1497380850173,
+        "turns": 209,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 210
+            },
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BePWI2TMb",
+        "started": 1497380350868,
+        "turns": 349,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 210
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SgSxBh6Gb",
+        "started": 1497380076668,
+        "turns": 340,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 210
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Bx5jNnTfW",
+        "started": 1497380001580,
+        "turns": 103,
+        "ranking": [
+            {
+                "name": "Jinxer",
+                "stars": 163
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Sg0FQh6M-",
+        "started": 1497379718430,
+        "turns": 237,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "reaNQ26Gb",
+        "started": 1497379637397,
+        "turns": 718,
+        "ranking": [
+            {
+                "name": "hjhjhkhj",
+                "stars": 78
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 202
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 219
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HltXG3Tzb",
+        "started": 1497379361251,
+        "turns": 364,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 226
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BeUJZh6fb",
+        "started": 1497379038065,
+        "turns": 436,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 228
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "ree1xnpM-",
+        "started": 1497378776000,
+        "turns": 369,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Sx6R0o6Mb",
+        "started": 1497378516874,
+        "turns": 498,
+        "ranking": [
+            {
+                "name": "stevenpas",
+                "stars": 179
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "hjhjhkhj",
+                "stars": 60
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 210
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HxqXCi6z-",
+        "started": 1497378337745,
+        "turns": 265,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HlpPaipMZ",
+        "started": 1497378148617,
+        "turns": 601,
+        "ranking": [
+            {
+                "name": "Anonymous",
+                "stars": 45
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Bx-J6iaM-",
+        "started": 1497378009507,
+        "turns": 166,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SeGx3jTGb",
+        "started": 1497377770361,
+        "turns": 395,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 226
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rgI99opf-",
+        "started": 1497377422117,
+        "turns": 499,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 226
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SeN_FjazZ",
+        "started": 1497377131924,
+        "turns": 383,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 226
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SxmI_s6GW",
+        "started": 1497376842775,
+        "turns": 702,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 212
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Bx8NPs6zW",
+        "started": 1497376557611,
+        "turns": 548,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 212
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 217
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BgSdro6z-",
+        "started": 1497376109385,
+        "turns": 724,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 212
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 217
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 221
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BxyKNi6GW",
+        "started": 1497375863237,
+        "turns": 344,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 211
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 217
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 220
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BgkkEoaGb",
+        "started": 1497375703084,
+        "turns": 270,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HglymspGW",
+        "started": 1497375447951,
+        "turns": 445,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 228
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SeY-ZsTz-",
+        "started": 1497374976641,
+        "turns": 815,
+        "ranking": [
+            {
+                "name": "[Bat] Jaba",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 211
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BeGneoTfW",
+        "started": 1497374889529,
+        "turns": 117,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BeL4kopM-",
+        "started": 1497374510260,
+        "turns": 745,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rlpPRcafZ",
+        "started": 1497374309187,
+        "turns": 350,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 228
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SgI-Rcaf-",
+        "started": 1497374205895,
+        "turns": 190,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rl5CoqTfb",
+        "started": 1497373649675,
+        "turns": 721,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SxcvicazZ",
+        "started": 1497373537626,
+        "turns": 213,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rgx5t9pfZ",
+        "started": 1497373064407,
+        "turns": 619,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] sora ai",
+                "stars": 218
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 222
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SgYsOq6fZ",
+        "started": 1497372833215,
+        "turns": 198,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Hxwku9TfW",
+        "started": 1497372639092,
+        "turns": 316,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SxzSP5pfb",
+        "started": 1497372473998,
+        "turns": 981,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BlhrIcaMW",
+        "started": 1497372227836,
+        "turns": 303,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HlEIH9pfb",
+        "started": 1497371979712,
+        "turns": 522,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 218
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 221
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rlmgVcTM-",
+        "started": 1497371627477,
+        "turns": 541,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HgcAG9aGW",
+        "started": 1497371346289,
+        "turns": 551,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HlzsW9TGZ",
+        "started": 1497371034106,
+        "turns": 612,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rlRol9afZ",
+        "started": 1497370790021,
+        "turns": 584,
+        "ranking": [
+            {
+                "name": "Fraudster",
+                "stars": 218
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "He8Qlq6GZ",
+        "started": 1497370653926,
+        "turns": 786,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 217
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SgwfycpGb",
+        "started": 1497370382681,
+        "turns": 198,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BgTaaFpfb",
+        "started": 1497370052537,
+        "turns": 647,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 215
+            },
+            {
+                "name": "#_#",
+                "stars": 0
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rxkSTKTGW",
+        "started": 1497369911422,
+        "turns": 431,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HlenjKaz-",
+        "started": 1497369512157,
+        "turns": 508,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 217
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Hx9ejKTMW",
+        "started": 1497369330040,
+        "turns": 269,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "reAc9FTf-",
+        "started": 1497369237942,
+        "turns": 173,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BgUSFFaMZ",
+        "started": 1497368893782,
+        "turns": 390,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HlrwuKTfb",
+        "started": 1497368668648,
+        "turns": 437,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Sgr3HKTzW",
+        "started": 1497367981237,
+        "turns": 1174,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HePC4F6fZ",
+        "started": 1497367759109,
+        "turns": 258,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 33
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BlNT7FTf-",
+        "started": 1497367483965,
+        "turns": 201,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 222
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Bg-LGYpG-",
+        "started": 1497367112772,
+        "turns": 729,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] sora ai",
+                "stars": 217
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 216
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BxGHxtaMW",
+        "started": 1497366586460,
+        "turns": 878,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 221
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SxUSJt6GZ",
+        "started": 1497366334261,
+        "turns": 394,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BeV7AuaGZ",
+        "started": 1497366044119,
+        "turns": 563,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] sora ai",
+                "stars": 217
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rerahOTGb",
+        "started": 1497365692883,
+        "turns": 513,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HgoB9dTzb",
+        "started": 1497365058548,
+        "turns": 1256,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rgM4FdTM-",
+        "started": 1497364778470,
+        "turns": 143,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rg5EdupfZ",
+        "started": 1497364530247,
+        "turns": 299,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Sltyv_TfZ",
+        "started": 1497364193007,
+        "turns": 485,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HlG6r_afb",
+        "started": 1497363897924,
+        "turns": 518,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rgo_4_6GZ",
+        "started": 1497363570775,
+        "turns": 1324,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 217
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 219
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HeTy7_6f-",
+        "started": 1497363173489,
+        "turns": 630,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 216
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Se86bdpfb",
+        "started": 1497362878349,
+        "turns": 574,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HxQJZdpf-",
+        "started": 1497362651225,
+        "turns": 392,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 33
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HeHlxu6MZ",
+        "started": 1497362413119,
+        "turns": 288,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 223
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "BlR2RDTzZ",
+        "started": 1497362101891,
+        "turns": 568,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BxeQsw6z-",
+        "started": 1497361176469,
+        "turns": 1835,
+        "ranking": [
+            {
+                "name": "ab",
+                "stars": 197
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 217
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Bx3-tPpM-",
+        "started": 1497360644147,
+        "turns": 875,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HeCvwD6zW",
+        "started": 1497360229912,
+        "turns": 610,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Bx_gDvaf-",
+        "started": 1497360111822,
+        "turns": 226,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rlG1LPTM-",
+        "started": 1497359833683,
+        "turns": 429,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] sora ai",
+                "stars": 218
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "reFZrwafb",
+        "started": 1497359616569,
+        "turns": 1023,
+        "ranking": [
+            {
+                "name": "houbeless",
+                "stars": 222
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 216
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BgpSEDpzb",
+        "started": 1497359429447,
+        "turns": 507,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rlR1QD6fW",
+        "started": 1497359078202,
+        "turns": 504,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 218
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 216
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rl0FbwafW",
+        "started": 1497358725949,
+        "turns": 506,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Be6keD6zb",
+        "started": 1497358308687,
+        "turns": 822,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] FloBot",
+                "stars": 224
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Sg6CRI6zZ",
+        "started": 1497358037507,
+        "turns": 531,
+        "ranking": [
+            {
+                "name": "עוד אפצי",
+                "stars": 212
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rezeTUaz-",
+        "started": 1497357546238,
+        "turns": 957,
+        "ranking": [
+            {
+                "name": "עוד אפצי",
+                "stars": 221
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] sora ai",
+                "stars": 218
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 218
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "reQOoUTz-",
+        "started": 1497357162980,
+        "turns": 652,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HlapFU6fZ",
+        "started": 1497356740745,
+        "turns": 391,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rgnK_8TMZ",
+        "started": 1497356419539,
+        "turns": 445,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rlie_ITGZ",
+        "started": 1497356275443,
+        "turns": 532,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 217
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 216
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 218
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SlHbwUaM-",
+        "started": 1497356029301,
+        "turns": 354,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HgXurUaMZ",
+        "started": 1497355627058,
+        "turns": 573,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Bg-dQUaMW",
+        "started": 1497355112659,
+        "turns": 746,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] sora ai",
+                "stars": 217
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 220
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Bx3yGUafb",
+        "started": 1497354724440,
+        "turns": 745,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "He2t-LTGb",
+        "started": 1497354628401,
+        "turns": 182,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Se5CyIaGb",
+        "started": 1497354194137,
+        "turns": 531,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 216
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Be76AHTGZ",
+        "started": 1497353914930,
+        "turns": 401,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 229
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rewICSTMb",
+        "started": 1497353806874,
+        "turns": 548,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 216
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SgXOnr6fb",
+        "started": 1497353323508,
+        "turns": 644,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Hl9hsBpfZ",
+        "started": 1497353138358,
+        "turns": 359,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 224
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "rgZ8oB6zW",
+        "started": 1497353033327,
+        "turns": 189,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rlaa9HaMW",
+        "started": 1497352901290,
+        "turns": 356,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            },
+            {
+                "name": "jpeich",
+                "stars": 45
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "Bg-b5SpMZ",
+        "started": 1497352697120,
+        "turns": 390,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 229
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SxESKr6Mb",
+        "started": 1497352507962,
+        "turns": 387,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "HgCSPHaz-",
+        "started": 1497352005690,
+        "turns": 906,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 218
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SxmtUH6GW",
+        "started": 1497351802564,
+        "turns": 652,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 218
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "SxyRrBTz-",
+        "started": 1497351623447,
+        "turns": 255,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Sel24B6zW",
+        "started": 1497351336243,
+        "turns": 369,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "SgazXHTf-",
+        "started": 1497350932986,
+        "turns": 495,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            },
+            {
+                "name": "[Bot] FloBot",
+                "stars": 225
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "Bl-OMr6fb",
+        "started": 1497350760918,
+        "turns": 400,
+        "ranking": [
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 214
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HgFKbBTGb",
+        "started": 1497350528805,
+        "turns": 94,
+        "ranking": [
+            {
+                "name": "[Bot] FloBot",
+                "stars": 225
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "1v1",
+        "id": "HlR2lrpfW",
+        "started": 1497350325684,
+        "turns": 395,
+        "ranking": [
+            {
+                "name": "[Bot] sora ai",
+                "stars": 230
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 214
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "rx6ckrpfW",
+        "started": 1497350036543,
+        "turns": 567,
+        "ranking": [
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 215
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 219
+            },
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 220
+            }
+        ]
+    },
+    {
+        "type": "classic",
+        "id": "BlXJ1BaGZ",
+        "started": 1497349851423,
+        "turns": 389,
+        "ranking": [
+            {
+                "name": "[Bot]EklipZ_ai",
+                "stars": 220
+            },
+            {
+                "name": "[Bot] Tripir v0.42",
+                "stars": 213
+            },
+            {
+                "name": "[Bot] FLOBOT9000",
+                "stars": 219
+            },
+            {
+                "name": "[Bot] Curly-pi",
+                "stars": 216
+            }
+        ]
+    }
+]

@@ -7,7 +7,7 @@ class UserQuery extends React.Component<Props, any> {
     haveValidUser: boolean =  false;
 
     query(server: string, username: string){
-        Rx.DOM.ajax(`http://${server}/api/validateUsername?u=${username}`)
+        Rx.DOM.ajax(`http://${server}/api/validateUsername?u=${encodeURIComponent(username)}`)
                 .subscribe(data => console.log(data));
     }
 
