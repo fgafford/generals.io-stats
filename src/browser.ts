@@ -3,3 +3,4 @@
  * here to immulate the browser enviroment for TypeScript compiler
  */
 /// <reference path="../node_modules/@types/react/index.d.ts" />
+/// <reference path="../node_modules/@types/rx/index.d.ts" />

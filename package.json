@@ -17,7 +17,10 @@
   "scripts": {
     "test": "gulp test"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@types/rx": "^4.1.1",
+    "@types/rx-dom": "^7.0.0"
+  },
   "devDependencies": {
     "@reactivex/rxjs": "^5.4.0",
     "@types/chai": "^3.4.30",
