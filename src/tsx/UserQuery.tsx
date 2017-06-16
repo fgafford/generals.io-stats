@@ -4,11 +4,17 @@ interface Props {}
 
 class UserQuery extends React.Component<Props, any> {
 
-    haveValidUser: boolean =  false;
+    // valid: boolean =  false;
+
+    constructor(){
+        super()
+        this.state = { valid: false };
+    }
 
     query(server: string, username: string){
+        const self = this;
         Rx.DOM.ajax(`http://${server}/api/validateUsername?u=${encodeURIComponent(username)}`)
-                .subscribe(data => console.log(data));
+                .subscribe(data => this.setState({ valid: data.response === 'true' }));
     }
 
     render() {
@@ -21,9 +27,10 @@ class UserQuery extends React.Component<Props, any> {
                             <option value="bot.generals.io">Bot Server (San Francisco)</option>
                             <option value="localhost:3000">localhost (testing)</option>
                         </select>
-                        <input id="main-menu-username-input" placeholder="Enter Username" type="text" />
+                        <input id="main-menu-username-input" placeholder="Enter Username" type="text" 
+                        onChange={e => this.query($('#server-select').val(), $('#main-menu-username-input').val()) }/>
                         <br/>
-                        <button onClick={e => this.query($('#server-select').val(), $('#main-menu-username-input').val()) } className="big" style={{margin: '10px'}}>See Stats</button>
+                        <button id="showStats" className={"big " + (this.state.valid ? '' : 'disabled')} disabled={this.state.valid} style={{margin: '10px'}}>See Stats</button>
                 </div>)
     }
 }
