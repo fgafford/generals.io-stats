@@ -1,4 +1,8 @@
 /// <reference path="../browser.ts" />
+// Generic filter function type
+type filterFunc = (item: any) => boolean
+type unifyFunc = (func1: (item: any) => any, func2: (item: any) => any) => any
+
 /**
  * funUtils
  * 
@@ -11,9 +15,42 @@ module.exports = {
     /**
      * Takes 2 functions and retuns a single function that 
      * 
-     * @method binaryFuncAnd
+     * This allows us to lazily evaluate functions with use of the '&&' operator.
+     * 
+     * @method uniteUnaryFilterFuncWithAnd
+     * 
+     * @return {function} // TODO: tell more
      */
-    composeFuncAnd(func1: (item: gameData) => boolean, func2: (item: gameData) => boolean): (item: gameData) => boolean{
-        return (item: gameData) => func1(item) && func2(item);
+    uniteUnaryFilterFuncWithAnd(func1: filterFunc, func2: filterFunc): filterFunc{
+        return (item: any) => func1(item) && func2(item);
+    },
+
+
+    /**
+     * Takes a unifying function and applies all passed in functions with the unifiying function.
+     * This function recursivly applies passed in funcs to the unifiying function 
+     * till a single function is retuned. 
+     * 
+     * It is more or less reduces an array of functions with a passed in unifying function
+     * 
+     * @method ...
+     * 
+     * @return
+     */
+    foldFunction(unifyFunc: unifyFunc, funcs: {(item: any):any}[]): (item: any) => any {
+        // I guess it will work in absence of pattern matching....
+        switch(funcs.length){
+            case 0:
+                throw 'Error: minimum of one function required';
+            case 1: // we can technically fulfill the contract if one 1 function provided
+                return funcs[0]
+            case 2: // True base case
+            default: // Where we recurse
+        }
+        
+        // if 0 or 1?
+        if (funcs.length == 1) return funcs[0];
+        // base case
+
     }
 }

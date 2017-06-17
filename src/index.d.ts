@@ -28,5 +28,4 @@ declare interface gameData {
 /**
  * GameData filter function
  */
-declare function gameDataFilter(game: gameData): Boolean 
-
+declare function gameDataFilter(game: gameData): Boolean;
