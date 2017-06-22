@@ -10,21 +10,7 @@ type unifyFunc = (func1: (item: any) => any, func2: (item: any) => any) => any
  * Mostly helper funcation (completely FP of course) that make 
  * the applicaion fun and run smooth (stateless, points-free, function composition).
  */
-module.exports = {
-    
-    /**
-     * Takes 2 functions and retuns a single function that 
-     * 
-     * This allows us to lazily evaluate functions with use of the '&&' operator.
-     * 
-     * @method uniteUnaryFilterFuncWithAnd
-     * 
-     * @return {function} // TODO: tell more
-     */
-    uniteUnaryFilterFuncWithAnd(func1: filterFunc, func2: filterFunc): filterFunc{
-        return (item: any) => func1(item) && func2(item);
-    },
-
+export default {
 
     /**
      * Takes a unifying function and applies all passed in functions with the unifiying function.
@@ -37,7 +23,7 @@ module.exports = {
      * 
      * @return
      */
-    foldFunction(unifyFunc: unifyFunc, funcs: {(item: any):any}[]): (item: any) => any {
+     foldFunction(unifyFunc: unifyFunc, funcs: {(item: any):any}[]): (item: any) => any {
         // I guess it will work in absence of pattern matching....
         switch(funcs.length){
             case 0:
@@ -45,12 +31,22 @@ module.exports = {
             case 1: // we can technically fulfill the contract if one 1 function provided
                 return funcs[0]
             case 2: // True base case
+                return unifyFunc(funcs[0], funcs[1])
             default: // Where we recurse
+                return unifyFunc(funcs[0], this.foldFunction(unifyFunc, funcs.slice(1)))
         }
-        
-        // if 0 or 1?
-        if (funcs.length == 1) return funcs[0];
-        // base case
+    },
 
+    /**
+     * Takes 2 functions and retuns a single function that 
+     * 
+     * This allows us to lazily evaluate functions with use of the '&&' operator.
+     * 
+     * @method uniteUnaryFilterFuncWithAnd
+     * 
+     * @return {function} // TODO: tell more
+     */
+    uniteUnaryFilterFuncWithAnd(func1: filterFunc, func2: filterFunc): filterFunc{
+        return (item: any) => func1(item) && func2(item);
     }
 }
