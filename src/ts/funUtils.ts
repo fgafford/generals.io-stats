@@ -13,6 +13,31 @@ type unifyFunc = (func1: (item: any) => any, func2: (item: any) => any) => any
 export default {
 
     /**
+     * Curry!
+     * 
+     * Credit: Kevin Ennis
+     * https://medium.com/@kevincennis/currying-in-javascript-c66080543528
+     * 
+     * @method curry
+     * @param {Function} fn - a function to Curry.
+     * 
+     * @return {Function|any} either a partally applied function or value
+     */
+    curry(fn: Function) {
+        const arity = fn.length;
+
+        return (function resolver() {
+            let memory: any[] = Array.prototype.slice.call( arguments );
+            return function(...args: any[]) {
+                let local = memory.slice();
+                Array.prototype.push.apply( local, args );
+                let next = local.length >= arity ? fn : resolver;
+                return next.apply( null, local );
+            };
+        }());
+    },
+
+    /**
      * Takes a unifying function and applies all passed in functions with the unifiying function.
      * This function recursivly applies passed in funcs to the unifiying function 
      * till a single function is retuned. 

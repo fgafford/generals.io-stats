@@ -6,6 +6,34 @@ const expect = chai.expect;
 
 describe("funUtils", () => {
 
+    describe('Curry', () => {
+        function unaryFunc(a: number){ return a + 1;}
+        function binaryFunc(a: number, b: number){ return a + b; }
+
+        it('exists and is therefore awesome!', () => expect(true))
+
+        it('should return expected value for a unary function', () => {
+            let curried = Utils.curry(unaryFunc)
+
+            expect(curried(1)).to.equal(2)
+            expect(curried(10)).to.equal(11)
+        })
+
+        it('should return a function if only patrially applied', () => {
+            let curried = Utils.curry(binaryFunc)
+
+            expect(typeof curried(1) === 'function')
+            expect(typeof curried(10) === 'function')
+        })
+
+        it('should return a value when fully applied', () => {
+            let curried = Utils.curry(binaryFunc)
+
+            expect(curried(1,4)).to.equal(5)
+            expect(curried(6)(8)).to.equal(14)
+        })
+    })
+
     describe('uniteUnaryFilterFuncWithAnd', () => {
         it('should be a function', () => {
             expect(typeof Utils.uniteUnaryFilterFuncWithAnd == 'function')

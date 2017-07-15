@@ -1,16 +1,7 @@
 /**
  * Game type (classic, 1v1, 2v2)
  */
-declare enum gameTypes {
-    'classic',
-    '1v1',
-    '2v2    '
-}
-
-interface player {
-    name: string,
-    stars: number
-}
+declare type gameTypes = 'classic' | '1v1' | '2v2'
 
 /**
  * Single game "replay" record. Holds data about
@@ -18,11 +9,14 @@ interface player {
  * involved player
  */
 declare interface gameData {
-    type: gameTypes
+    type: 'classic' | '1v1' | '2v2'
     id: string
     started: number
     turns: number
-    ranking: player[]
+    ranking: [{
+        name: string,
+        stars: number
+    }]
 }
 
 /**
